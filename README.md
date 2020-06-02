@@ -1,4 +1,4 @@
-# ecoleta2<h3 align="center">
+<h3 align="center">
     <img width="300px" src="https://i.imgur.com/thB3TEi.png">
     <br><br>
 </h3>
