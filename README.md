@@ -17,6 +17,16 @@ Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next L
 
 As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
 
+Técnologias utilizadas
+Front
+HTML
+CSS
+Javascript
+Back
+Node
+Nunjuks
+SQL
+
 ## Descrição:
 
 Autor: Alisson de Andrade Araujo"
