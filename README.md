@@ -53,7 +53,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
- - [Ecoleta](https://ecoletaalissonandrade.netlify.app/)
+ - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
 
  - [Covid-19 - Salgado de São Félix - PB](https://salgadodesaofelixcovid19.netlify.app/)
  
